@@ -518,3 +518,4 @@ Projeto de Engenharia de Dados com foco em pipeline analítico no Google Cloud P
 ## Licença
 
 Este projeto possui caráter educacional, técnico e demonstrativo, sendo destinado a estudo, prática, portfólio e evolução profissional em Engenharia de Dados.
+# case-data-engineer-spec
