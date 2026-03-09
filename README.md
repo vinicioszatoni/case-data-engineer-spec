@@ -486,8 +486,6 @@ As próximas evoluções planejadas para o projeto são:
 * melhoria das regras de negócio da camada Gold
 * ampliação das validações de qualidade de dados
 * documentação complementar do schema
-* criação de `Dockerfile` para padronização do ambiente
-* orquestração do pipeline com Airflow
 * adoção de dbt para testes e governança analítica
 * evolução para cargas incrementais mais avançadas
 

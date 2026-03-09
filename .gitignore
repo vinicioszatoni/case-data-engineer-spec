@@ -82,3 +82,8 @@ htmlcov/
 # Docker
 # =========================
 docker-compose.override.yml
+Dockerfile
+requirements.txt
+.dockerignore
+.python-version
+main.py
