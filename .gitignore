@@ -1,0 +1,84 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+
+# =========================
+# Virtual environment
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# Environment variables / secrets
+# =========================
+.env
+.env.*
+*.env
+
+# Service account / credentials
+credentials/
+*.json
+!notebooks/*.json
+
+# =========================
+# Airflow
+# =========================
+logs/
+airflow.db
+airflow-webserver.pid
+standalone_admin_password.txt
+
+# =========================
+# Data files
+# =========================
+data/raw/
+data/processed/
+data/refined/
+data/trusted/
+*.csv
+*.parquet
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+
+# =========================
+# Testing / coverage
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+.cache/
+.mypy_cache/
+
+# =========================
+# Logs gerais
+# =========================
+*.log
+
+# =========================
+# Docker
+# =========================
+docker-compose.override.yml
